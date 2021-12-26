@@ -1,6 +1,6 @@
 # Багирли Руфат
 
-![](/Users/macbook/Documents/github/CV/img/501680761.jpeg)
+![](https://github.com/RONIN-79/CV/blob/master/img/501680761.jpeg)
 
 Работаю в ООО "Домодедово Айти Сервисиз".
 
